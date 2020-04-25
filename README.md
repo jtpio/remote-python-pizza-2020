@@ -4,10 +4,9 @@
 
 ![screencast](./img/screencast.gif)
 
-
 ## Try it online
 
-[![Binder](./img/binder-logo.png)](https://mybinder.org/v2/gh/jtpio/remote-python-pizza-2020/master?urlpath=lab%2Ftree%2Fpresentation.ipynb)
+[![Binder](./img/binder-badge.svg)](https://mybinder.org/v2/gh/jtpio/remote-python-pizza-2020/master?urlpath=lab%2Ftree%2Fpresentation.ipynb)
 
 ### Local Setup
 
