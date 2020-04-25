@@ -2,7 +2,7 @@
 
 ## Remote Python Pizza 2020 - 2020-04-25
 
-![pizza-cool](./img/pizza-cool.gif)
+![screencast](./img/screencast.gif)
 
 
 ## Try it online
