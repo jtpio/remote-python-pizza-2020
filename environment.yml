@@ -1,0 +1,12 @@
+name: remote-python-pizza-2020
+channels:
+- conda-forge
+dependencies:
+- bqplot=0.12
+- ipylab=0.3
+- ipytree=0.1
+- ipywidgets=7
+- jupyterlab=2
+- numpy
+- nodejs
+- python=3
